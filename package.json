@@ -15,7 +15,7 @@
     "sqlite3": false
   },
   "dependencies": {
-    "bluebird": ">=1.2.0",
+    "bluebird": "2.2.2",
     "chalk": "^0.4.0",
     "commander": "^2.2.0",
     "generic-pool-redux": "~0.1.0",
